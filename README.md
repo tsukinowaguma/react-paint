@@ -13,7 +13,7 @@
 将app/components复制进入项目中,需要有React,ReactDOM,url-loader,babel等包支持,例如
 ``` bash
 import Graffiti from 'xxxx/Graffiti.jsx';
-import React,{ Component } from 'xxxx/Graffiti.jsx';
+import React,{ Component } from 'react';
 
 class App extends Component{
 	render(){
